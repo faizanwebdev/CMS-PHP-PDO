@@ -1,3 +1,4 @@
+<?php $con = null; ?>
 <!-- Footer -->
 <footer>
             <div class="row">

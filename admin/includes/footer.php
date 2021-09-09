@@ -1,3 +1,4 @@
+<?php $con = null; ?>
 <!-- jQuery -->
 <script src="js/jquery.js"></script>
 
