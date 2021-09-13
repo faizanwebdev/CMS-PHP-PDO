@@ -27,7 +27,7 @@
                     }
                     ?>
                     <li>
-                        <a href="admin/">Admin</a>
+                        <a href="admin/dashboard.php">Admin</a>
                     </li>                    
                 </ul>
             </div>

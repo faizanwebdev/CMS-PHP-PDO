@@ -76,7 +76,6 @@ if(isset($_REQUEST['cat']) and !empty(trim($_REQUEST['cat']))){
         <!-- /.row -->
 
         <hr>
-
 <?php include "includes/footer.php"; ?> 
 <?php
 }
