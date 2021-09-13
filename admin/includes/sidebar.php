@@ -7,7 +7,7 @@
                         <a href="categories.php"><i class="fa fa-fw fa-bar-chart-o"></i> Categories</a>
                     </li>
                     <li>
-                        <a href="posts.php"><i class="fa fa-fw fa-table"></i> Posts</a>
+                        <a href="allposts.php"><i class="fa fa-fw fa-table"></i> Posts</a>
                     </li>
                     <li>
                         <a href="comments.php"><i class="fa fa-fw fa-edit"></i> Comments</a>
